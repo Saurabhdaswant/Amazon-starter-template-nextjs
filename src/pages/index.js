@@ -6,7 +6,7 @@ export default function Home( { products } ) {
   return (
     <div className="bg-gray-100" >
       <Head>
-        <title>Manav cha Dukaan</title>
+        <title>Amazone Clone</title>
       </Head>
       <Header/>
 
